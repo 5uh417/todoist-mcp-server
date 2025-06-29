@@ -15,6 +15,7 @@ todoist_mcp_server.egg-info/
 
 # Claude Code project instructions
 CLAUDE.md
+.claude/
 
 # Claude Desktop config
 claude_desktop_config.json
